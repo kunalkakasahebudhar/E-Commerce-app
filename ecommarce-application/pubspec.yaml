@@ -30,3 +30,8 @@ flutter:
     - assets/images/News-3.png
     - assets/images/News-4.png
     - assets/images/News-5.png
+    - assets/images/login_popup.png
+    - assets/images/home_screen.png
+    - assets/images/news_page.png
+    - assets/images/product_detail.png
+    - assets/images/add_to_card.png

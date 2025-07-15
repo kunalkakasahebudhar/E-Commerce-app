@@ -1,16 +1,33 @@
-# eapp
+# 🛒 E-Commerce Flutter App
 
-A new Flutter project.
+A modern and responsive e-commerce mobile application built with **Flutter**. This app provides users with a smooth shopping experience — from product browsing to checkout — all in a beautifully designed interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🏬 Browse categories and product listings
+- 🛍️ Add to cart and manage wishlist
+- 🔍 Search products
+- 🔐 Login & Signup screens
+- 🖼️ High-quality product image viewer
+- 📱 Fully responsive across screen sizes
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Screenshots
+
+### 🔐 Login Required Popup
+![Login Popup](assets/images/login_popup.png)
+
+### 🏠 Home Screen
+![Home Screen](assets/images/home_screen.png)
+
+### 🛍️ Product Detail
+![Product Detail](assets/images/product_detail.png)
+
+### 🧾 Add to Cart Popup
+![Add to Cart](assets/images/add_to_card.png)
+
+### 📰 News / Blog Page
+![News Page](assets/images/news_page.png)
